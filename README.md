@@ -76,3 +76,13 @@ Error - 'tsc' sub task errored after 1.85 s
 [09:01:10] Node version:v8.12.0
 [09:01:10] Total duration:6.53 s
 [09:01:10] Task errors:19
+
+
+
+### Update
+
+here's the fix: 
+`npm install --save-dev mobx@3.6.2 mobx-react@4.4.3'
+
+https://github.com/SharePoint/sp-dev-docs/issues/3196
+
